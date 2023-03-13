@@ -1,1 +1,2 @@
-#!/bin/bashv
+#!/bin/bash
+tr -d 'cC'

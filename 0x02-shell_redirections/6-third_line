@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'as he led his army across the Rubicon river in Northern Italy. With this step,' ./iacta
+head -n -3 iacta | tail -n -1

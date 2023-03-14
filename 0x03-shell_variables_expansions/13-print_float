@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((NUM2$#))
+echo $((2$#NUM))

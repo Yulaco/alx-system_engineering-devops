@@ -1,2 +1,2 @@
 #!/bin/bash
-count $PATH
+count $PATH/action

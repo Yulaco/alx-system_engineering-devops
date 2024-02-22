@@ -57,6 +57,7 @@
 		- Do not display hidden files
 
 *9. To file, or not to file*
+
 	- Write a Bash script that gives you information about the school file.
 		- Must use if and, else
 	- Your Bash script should check if the file exists and print:
@@ -64,6 +65,7 @@
 		- If the file does not exist: school file does not exist
 
 *10. FizzBuzz*
+
 	- Write a Bash script that displays numbers from 1 to 100.
 		- Displays FizzBuzz when the number is a multiple of 3 and 5
 		- Displays Fizz when the number is multiple of 3

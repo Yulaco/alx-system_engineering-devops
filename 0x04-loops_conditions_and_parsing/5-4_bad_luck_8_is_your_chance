@@ -3,7 +3,7 @@
 
 
 count="1"
-while [ $count -lt 9 ]
+while [ $count -lt 10 ]
 do
 	count=$((count+1))
 	echo "Best School"
@@ -13,5 +13,4 @@ do
 	elif [ $count -eq 7 ];then
 		echo "good luck"
 	fi
-
 done

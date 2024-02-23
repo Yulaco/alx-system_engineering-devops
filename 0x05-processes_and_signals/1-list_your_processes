@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script displays list of currently running processes
 
-ps axu
+ps axu --forest

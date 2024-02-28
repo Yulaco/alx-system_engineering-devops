@@ -1,4 +1,4 @@
-*Networking basics #0*
+*Networking basics 0*
 
 *Task 0 OSI model*
 
